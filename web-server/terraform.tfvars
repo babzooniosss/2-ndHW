@@ -1,5 +1,5 @@
-tg_bot_key = "8127255469:AAH2I6ELiHIp-xmvEzsuJXd9QDjrdKnZYbA"
-cloud_id = "b1g71e95h51okii30p25"
-folder_id = "b1grtfs0t93f0mgmge7u"
+tg_bot_key = "XXX"
+cloud_id = "XXX"
+folder_id = "XXX"
 folder_name = "vvot19"
 zone = "ru-central1-a"
